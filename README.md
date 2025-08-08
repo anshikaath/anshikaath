@@ -1,13 +1,24 @@
-- 👋 Hi, I’m @anshikaath
-- 👀 I’m interested in python
-- 🌱 I’m currently learning tensorflow
-- 💞️ I’m looking to collaborate on analytics projects
-- 📫 How to reach me 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: old schools' cool
-- See my portfolio at [Myportfolio](http://(s)://anshikaath.github.io)
+# Hi, I'm Anshika 👋
 
-<!---
-anshikaath/anshikaath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m interested in Python and data analytics
+- 🌱 I’m currently learning TensorFlow and deep learning fundamentals
+- 🤝 I’m looking to collaborate on analytics and ML projects
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Old school's cool
+
+**Portfolio**: [anshikaath.github.io](https://anshikaath.github.io)
+
+### About me
+Passionate about turning data into insights and building practical machine learning solutions. I enjoy working in Python and exploring the ML/DL ecosystem.
+
+### Tools & tech I use
+- Python • Jupyter • Pandas • NumPy • TensorFlow
+
+### GitHub stats
+[![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshikaath&show_icons=true)](https://github.com/anshikaath)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anshikaath)](https://git.io/streak-stats)
+
+### How to reach me
+- The easiest way is via my portfolio above
+- You can also open an issue in this repository if you'd like to collaborate
